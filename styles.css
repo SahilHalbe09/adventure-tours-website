@@ -251,7 +251,7 @@ p {
 /* Mobile */
 @media only screen and (max-width: 850px) {
 	.menu-btn {
-		display: block;
+		display: block !important;
 	}
 
 	.navbar {
