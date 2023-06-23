@@ -250,10 +250,6 @@ p {
 
 /* Mobile */
 @media only screen and (max-width: 850px) {
-	header {
-		height: 80vh;
-	}
-
 	.menu-btn {
 		display: block !important;
 	}
