@@ -335,6 +335,7 @@ p {
 	}
 
 	.footer {
+		width: 100%;
 		overflow: 10px;
 	}
 }
